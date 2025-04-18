@@ -1,9 +1,8 @@
 # Denoising Autoencoder
 
-This project focuses on implementing a **Denoising Autoencoder** that removes noise from handwritten digit images, particularly from the **MNIST** dataset.
+This project focuses on implementing a **Denoising Autoencoder** that removes noise from handwritten digit images, particularly from the **MNIST** dataset. The model learns to reconstruct the images from noisy inputs, thereby improving their quality.
 
-## Aim:
-The primary goal of this project is to **denoise** images by training an autoencoder model on the MNIST dataset, which contains images of handwritten digits. The model learns to reconstruct the images from noisy inputs, thereby improving their quality.
+<table> <tr><td><img src = "6_noised.png" height = 200px></td> <td><img src = "6.png" height = 200px></td></tr></table>
 
 ## Dataset:
 - **MNIST**: A dataset of handwritten digits, widely used for image processing tasks.
